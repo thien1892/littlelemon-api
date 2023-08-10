@@ -1,0 +1,15 @@
+Admin:
+username: admin
+pass: admin
+
+Customer (user-pass-token)
+	customer1 - lemon@123 - 3123c619476966d6d95af10c9686bc659198b98c
+    customer2 - lemon@123 - 841b6b2926921b67d3581d9e61bbb02d4c58ccb5
+
+Delivery
+    Delivery1 - lemon@123 - 84b2840878f56fbdfec636d815fc3ca4a900c2d5
+    Delivery2 - lemon@123 - 57322aef0f60dd88dd5488f78bf3495cfa1b989d
+
+Manager
+    Manager1 - lemon@123 - e313e2f03966c92b8d9ca02a04a3c758ead7621f
+    manager2 - lemon@123 - a8fd3c8bbcc28e0556a0d71736011e52a070c0dd
